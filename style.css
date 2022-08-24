@@ -8,7 +8,7 @@
 body {
     background-color: #221f14;
 }
-
+/* Navbar */
 nav {
     font-family: sans-serif;
     display: flex;
@@ -45,14 +45,13 @@ nav {
     cursor: pointer;
 }
 
+/* Hero-Section */
 .hero-section {
     display: flex;
     flex-direction: column;
     margin-left: 100px;
     margin-top: 50px;
-  
-    
-    
+ 
 }
 
 .hero-header {
@@ -88,13 +87,10 @@ nav {
     
 }
 
+/* Hero Bottom */
 .hero-bottom {
     display: flex;
-    justify-content: flex-end;
-
-    
-  
-  
+    justify-content: flex-end; 
     
 }
 
